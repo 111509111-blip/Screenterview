@@ -1,0 +1,8 @@
+{
+  "name": "AI Interviewer Pro_v3",
+  "description": "An AI-powered first-round interview system that conducts real-time video interviews, asks follow-up questions, and generates HR reports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
